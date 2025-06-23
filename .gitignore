@@ -84,7 +84,7 @@ tmp/
 *.sqlite3
 
 # Models (Large files)
-models/
+/models/
 *.bin
 *.safetensors
 *.onnx
